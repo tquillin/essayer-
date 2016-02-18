@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html ng-app="ElectricLadyland">
+  <head>
+    <meta charset="utf-8">
+    <title>new page</title>
+  </head>
+
+
+  <body ng-controller="main">
+    <h2>new page </h2>
+
+
+
+
+        <div id="product-results" class="">
+            <ul>
+              <li id="product-lists" ng-repeat="product in products">
+                <h3>{{ product.name}}</h3> <br><p>{{product.description}}</p> <br><h6>{{product.rating}}
+                <a href="#" ng-click="delete(product._id)">Delete</a>
+              </li>
+            </ul>
+
+        </div>
+
+
+
+
+  </body>
+</html>

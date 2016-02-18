@@ -1,0 +1,438 @@
+*{
+  box-sizing: 0px;
+
+}
+#navigation{
+  position: absolute;
+  top: 3%;
+  left: 12%;
+  word-spacing: 60px;
+}
+.bar{
+  position: relative;
+  display: inline-block;
+}
+/*li:hover{
+  color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, .8);
+}*/
+.header{
+  position: absolute;
+  top: 25%;
+  left: 40%;
+}
+
+.eights{
+  width: 5%;
+  height: 7%;
+}
+
+.bg{
+  position: absolute;
+  top: 10;
+  left: 10;
+  width: 100px;
+  height: 150px;
+}
+body{
+  background-color: rgba(0, 90, 255, 0.8);
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  /*background: url('https://openclipart.org/image/300px/svg_to_png/2214/drunken-duck-Beer-2.png&disposition=attachment');*/
+  /*background-repeat: no-repeat;*/
+  /*width: 10px;*/
+}
+
+#intro{
+  position: absolute;
+  top: 40%;
+  left: 7%;
+}
+
+#intro-title{
+  position: absolute;
+  top: 70%;
+  left: 100%;
+  width: 400%;
+}
+#intro-description{
+  margin-top: 10px;
+  position: absolute;
+  width: 270%;
+  top: 170%;
+}
+
+#pricing{
+  position: absolute;
+  top: 80%;
+  left: 15%;
+  text-align: center;
+}
+
+
+
+
+.price-list {
+line-height: 25px;
+text-align: center;
+}
+.prices{
+  font-size: 30px;
+  line-height: 45px;
+  /*text-align: left;*/
+}
+#product-list-two{
+  position: absolute;
+  top: 200%;
+  left: 3%;
+}
+#product-description-two{
+  width: 70%;
+}
+#product-two{
+  position: absolute;
+  bottom: -25%;
+  left: 80%;
+}
+
+#tequila-two{
+  position: relative;
+  top: -100%;
+  left: 13%;
+}
+#wine-two{
+  position: relative;
+  top: -100%;
+  left: 28%;
+}
+
+#product-list{
+  position: absolute;
+  top: 150%;
+  left: 3%;
+}
+#product-description{
+  width: 70%;
+}
+#product-one{
+  position: absolute;
+  bottom: 5%;
+  left: 80%;
+}
+#beer-one{
+  position: relative;
+  /*left: %;*/
+  top: -100%;
+}
+#tequila-one{
+  position: relative;
+  top: -100%;
+  left: 13%;
+}
+#wine-one{
+  position: relative;
+  top: -100%;
+  left: 28%;
+}
+
+#hour{
+  position: absolute;
+  top: 80%;
+  left: 4%;
+}
+#hour-one{
+  position: absolute;
+  top: 80%;
+  left: 19%;
+}
+#hour-two{
+  position: absolute;
+  top: 80%;
+  left: 36%;
+}
+
+.logo{
+  width: 80px;
+  position: absolute;
+  top: 80%;
+  left: 37%;
+}
+.beer{
+  width: 4%;
+  height: 3%;
+  position: absolute;
+  top: 17.5%;
+  left: 10%;
+  /*background: url('https://openclipart.org/image/300px/svg_to_png/2214/drunken-duck-Beer-2.png&disposition=attachment');*/
+}
+ .tequila{
+   width: 4%;
+   height: 3%;
+   position: absolute;
+   top: 17.8%;
+   left: 40%;
+ }
+ .tequila-three{
+   width: 2%;
+   height: 1%;
+   position: absolute;
+   top: 19.8%;
+   left: 42%;
+ }
+ .tequila-a{
+   width: 2%;
+   position: absolute;
+   top: 198%;
+   left: 38%;
+ }
+.wine{
+  width: 4%;
+  height: 3%;
+  position: absolute;
+  top: 17%;
+  left: 80%;
+}
+.beer:hover{
+  color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, .8);
+}
+
+.beer-sd{
+  width: 2%;
+  position: absolute;
+  top: 243%;
+  left: 16%;
+  /*background: url('https://openclipart.org/image/300px/svg_to_png/2214/drunken-duck-Beer-2.png&disposition=attachment');*/
+}
+ .tequila-sd{
+   width: 2%;
+   position: absolute;
+   top: 243%;
+   left: 35%;
+ }
+.wine-sd{
+  width: 2%;
+  position: absolute;
+  top: 243%;
+  left: 65%;
+}
+.beer-sd:hover{
+  color: rgba(0, 0, 0, 1);
+  background-color: rgba(0, 255, 255, .8);
+}
+
+/*#compares-sd{
+  position: relative;
+}*/
+
+
+/*.beverages{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}*/
+
+
+
+/* new-entry */
+#new-entry{
+  position: absolute;
+  top: 1230%;
+  left: 45%;
+  color: black;
+}
+#product-results{
+  position: absolute;
+  top: 160%;
+  left: 10%;
+  width: 70%;
+  /*word-spacing: 50px;*/
+  line-height: 30px;
+  /*display: inline-block;*/
+}
+.header{
+  position: absolute;
+  top: 15%;
+  left: 30%;
+}
+#purple-hape{
+  position: absolute;
+  top: 180%;
+  left: 290%;
+  width: 120px;
+  height: 100px;
+}
+/*
+#product-one{
+  width: 20%;
+  height: 30%;
+}*/
+
+#buds{
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  top: 170%;
+  left: 80%;
+}
+#buds-a{
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  top: 220%;
+  left: 80%;
+}
+#buds-b{
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  top: 260%;
+  left: 80%;
+}
+#buds-c{
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  top: 300%;
+  left: 80%;
+}
+#buds-d{
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  top: 340%;
+  left: 80%;
+}
+.display{
+  position: absolute;
+  top: 15%;
+  /*left: 1%;*/
+  width: 36%;
+  height: 2%;
+  background-color: orange;
+  font-family: 'Rock Salt', cursive;
+  /*color: snow;*/
+  visibility: hidden;
+}
+#exit{
+  position: absolute;
+  left: 94%;
+  top: -10%;
+}
+#display-tequila-three{/*these are the 4 shot glasses */
+  position: absolute;
+  top: 19%;
+  left: 53.5%;
+  width: 13%;
+  height: 5%;
+  background-color: rgba(0, 255, 150, 1);
+  font-family: 'Rock Salt', cursive;
+  /*z-index: -1000;*/
+  box-shadow: 220px;
+
+  /*color: panther;*/
+  visibility: hidden;
+}
+.display-tequila{
+  position: absolute;
+  top: 13%;
+  left: 46%;
+  width: 28%;
+  height: 12%;
+  background-color: rgba(0, 255, 150, 1);
+  font-family: 'Rock Salt', cursive;
+  visibility: hidden;
+}
+#exit-tequila{
+  position: absolute;
+  left: 90%;
+  top: 40%;
+}
+#exit:hover{
+  cursor: pointer;
+}
+#exit-tequila-three:hover{
+  cursor: pointer;
+}
+.beer:hover{
+  cursor: pointer;
+}
+.tequila:hover{
+  cursor: pointer;
+}
+.wine:hover{
+  cursor: pointer;
+}
+.display-wine h6{
+  padding-top: 6%;
+  /*padding-left: 2%;*/
+  text-align: center;
+}
+.display-wine{
+  position: absolute;
+  top: 15%;
+  left: 90%;
+  width: 26%;
+  height: 8%;
+  /*background-color: rgba  (0, 0, 0, 1);*/
+  background-color: red;
+  font-family: 'Rock Salt', cursive;
+
+  /*color: snow;*/
+  visibility: hidden;
+}
+#exit-wine{
+  position: absolute;
+  left: 93%;
+  top: 70%;
+}
+#exit-wine:hover{
+  cursor: pointer;
+}
+
+.display-sd{
+  position: absolute;
+  top: 237%;
+  left: 10%;
+  width: 24%;
+  height: 5%;
+  background-color: rgba(0, 0, 0, 1);
+  color: snow;
+  visibility: hidden;
+}
+#exit-sd{
+  position: absolute;
+  left: 90%;
+  top: -30%;
+}
+
+.display-tequila-sd{
+  position: absolute;
+  top: 237%;
+  left: 40%;
+  width: 24%;
+  height: 5%;
+  background-color: rgba(0, 255, 150, 1);
+  color: pink;
+  visibility: hidden;
+}
+#exit-tequila-sd{
+  position: absolute;
+  left: 95%;
+  top: -30%;
+}
+.display-wine-sd{
+  position: absolute;
+  top: 237%;
+  left: 70%;
+  width: 26%;
+  height: 5%;
+  background-color: rgba(0, 0, 255, 1);
+  color: snow;
+  visibility: hidden;
+}
+#exit-wine-sd{
+  position: absolute;
+  left: 95%;
+  top: -10%;
+}
