@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 app.use(express.static('./client'));
 
 app.set('views', __dirname + '/client/views');
-app.set('views engine', 'ejs');
+app.set('view engine', 'ejs');
 
 mongoose.connect(process.env.MONGOLAB_URI || 'mongodb://localhost/products_api');
 
