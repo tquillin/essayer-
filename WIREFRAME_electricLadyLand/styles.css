@@ -1,0 +1,158 @@
+#navigation{
+  position: absolute;
+  top: 3%;
+  left: 12%;
+  word-spacing: 60px;
+}
+.bar{
+  position: relative;
+  display: inline-block;
+}
+li:hover{
+  color: green;
+  background-color: rgba(255, 255, 0, .3);
+}
+.header{
+  position: absolute;
+  top: 25%;
+  left: 40%;
+}
+
+
+body{
+  background-color: bisque;
+  /*background: url('https://openclipart.org/image/300px/svg_to_png/2214/drunken-duck-Beer-2.png&disposition=attachment');*/
+  /*background-repeat: no-repeat;*/
+  /*width: 10px;*/
+}
+
+#intro{
+  position: absolute;
+  top:60%;
+  left: 13%;
+}
+
+#intro-title{
+  position: absolute;
+  top: 70%;
+  left: 100%;
+  width: 400%;
+}
+#intro-description{
+  margin-top: 10px;
+  position: absolute;
+  width: 270%;
+  top: 150%;
+}
+
+#pricing{
+  position: absolute;
+  top: 100%;
+  left: 15%;
+  text-align: center;
+}
+
+
+
+
+.price-list {
+line-height: 25px;
+text-align: center;
+}
+#product-list-two{
+  position: absolute;
+  top: 200%;
+  left: 3%;
+}
+#product-description-two{
+  width: 70%;
+}
+#product-two{
+  position: absolute;
+  bottom: -25%;
+  left: 80%;
+}
+
+#tequila-two{
+  position: relative;
+  top: -100%;
+  left: 13%;
+}
+#wine-two{
+  position: relative;
+  top: -100%;
+  left: 28%;
+}
+
+#product-list{
+  position: absolute;
+  top: 150%;
+  left: 3%;
+}
+#product-description{
+  width: 70%;
+}
+#product-one{
+  position: absolute;
+  bottom: 5%;
+  left: 80%;
+}
+#beer-one{
+  position: relative;
+  /*left: %;*/
+  top: -100%;
+}
+#tequila-one{
+  position: relative;
+  top: -100%;
+  left: 13%;
+}
+#wine-one{
+  position: relative;
+  top: -100%;
+  left: 28%;
+}
+
+#hour{
+  position: absolute;
+  top: 80%;
+  left: 4%;
+}
+#hour-one{
+  position: absolute;
+  top: 80%;
+  left: 19%;
+}
+#hour-two{
+  position: absolute;
+  top: 80%;
+  left: 36%;
+}
+
+
+.beer{
+  width: 20px;
+  /*background: url('https://openclipart.org/image/300px/svg_to_png/2214/drunken-duck-Beer-2.png&disposition=attachment');*/
+}
+#purple-hape{
+  position: relative;;
+  top: 20%;
+  left: 50%;
+  width: 520px;
+  height: 550px;
+}
+.wine{
+  width: 20px;
+}
+
+.beverages{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+#product-container{
+  position:
+  left: 10%;
+  top: 30%;
+}
